@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\services\\requests-service\\requests-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\services\\requests-service\\requests-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\models\\ticket-filter.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\models\\ticket-filter.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\models\\alert.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\models\\alert.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\services\\rule-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\services\\rule-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\services\\notification-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\services\\notification-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\models\\rule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\models\\rule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\models\\notification-settings.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\models\\notification-settings.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\modal\\modal.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\modal\\modal.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\modal\\modal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\modal\\modal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\modal\\modal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\modal\\modal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|c:\\users\\stepan\\desktop\\angularproject10\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C3F929-CD83-4BB4-9484-8B2FE84861DC}|AngularProject10.esproj|solutionrelative:src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T03:39:42.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T03:37:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sidebar-menu.component.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.html",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T03:24:20.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requests-service.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\services\\requests-service\\requests-service.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\services\\requests-service\\requests-service.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\services\\requests-service\\requests-service.ts",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\services\\requests-service\\requests-service.ts",
+              "ViewState": "AQIAACEAAAAAAAAAAAAnwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T23:36:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "requests-table.component.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.ts",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAMIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T23:41:09.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sidebar-menu.component.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.css",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.css",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T01:13:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sidebar-menu.component.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\sidebar-menu\\sidebar-menu.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T02:11:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ticket-filter.model.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\models\\ticket-filter.model.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\models\\ticket-filter.model.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\models\\ticket-filter.model.ts",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\models\\ticket-filter.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T23:42:20.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "requests-table.component.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.html",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.html",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T00:08:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "requests-table.component.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.css",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\requests-table\\requests-table.component.css",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAOkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T00:09:50.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "requests-filter.component.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.ts",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T23:38:13.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "requests-filter.component.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.html",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T23:58:18.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "requests-filter.component.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.css",
+              "RelativeToolTip": "src\\app\\pages\\requests-page\\components\\requests-filter\\requests-filter.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T00:44:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "alert.model.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\models\\alert.model.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\models\\alert.model.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\models\\alert.model.ts",
+              "RelativeToolTip": "src\\app\\pages\\models\\alert.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T00:05:02.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "rule-service.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\services\\rule-service.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\services\\rule-service.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\services\\rule-service.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\services\\rule-service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T01:27:52.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "notification-service.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\services\\notification-service.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\services\\notification-service.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\services\\notification-service.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\services\\notification-service.ts",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T03:21:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "rule.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\models\\rule.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\models\\rule.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\models\\rule.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\models\\rule.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T01:23:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "notification-settings.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\models\\notification-settings.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\models\\notification-settings.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\models\\notification-settings.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\models\\notification-settings.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T03:21:40.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "modal.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\modal\\modal.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\modal\\modal.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\modal\\modal.css",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\modal\\modal.css",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T01:39:04.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "rule-management.component.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.ts",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAQwIUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T00:05:11.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "rule-management.component.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.html",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T00:05:12.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "rule-management.component.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.css",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\components\\rule-management\\rule-management.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T00:05:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "notification-settings.component.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.ts",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T03:19:58.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "modal.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\modal\\modal.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\modal\\modal.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\modal\\modal.html",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\modal\\modal.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T01:38:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "modal.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\modal\\modal.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\modal\\modal.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\modal\\modal.ts",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\modal\\modal.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T01:39:01.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "notification-settings.component.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.html",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T03:19:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "notification-settings.component.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.css",
+              "RelativeToolTip": "src\\app\\pages\\modal-page\\components\\notification-settings\\notification-settings.component.css",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T03:19:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\nuget.config",
+              "RelativeDocumentMoniker": "nuget.config",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\nuget.config",
+              "RelativeToolTip": "nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-09T03:11:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app-routing-module.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app-routing-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing-module.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app-routing-module.ts",
+              "RelativeToolTip": "src\\app\\app-routing-module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T02:09:31.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-module.ts",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app-module.ts",
+              "RelativeToolTip": "src\\app\\app-module.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T02:09:32.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "src\\app\\app.css",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app.css",
+              "RelativeToolTip": "src\\app\\app.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T01:06:38.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "src\\app\\app.html",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\AngularProject10\\src\\app\\app.html",
+              "RelativeToolTip": "src\\app\\app.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T01:06:56.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
